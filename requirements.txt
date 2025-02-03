@@ -1,0 +1,10 @@
+  Flask
+pytesseract
+Pillow
+pyzbar
+requests
+selenium
+webdriver-manager
+beautifulsoup4
+flask-cors
+pdf2image
